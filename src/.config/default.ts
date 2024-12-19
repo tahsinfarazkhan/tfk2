@@ -7,8 +7,7 @@ export const defaultConfig: ThemeConfig = {
   site: {
     
     subtitle: 'cultures coexist, boundaries blur',
-    title: 'tahsin faraz khan',
-    author: 'Moeyua',
+    author: 'tahsin faraz khan',
     description: 'Rediscory the beauty of typography',
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
@@ -51,8 +50,6 @@ export const defaultConfig: ThemeConfig = {
     categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
       '© %year <a target="_blank" href="%website">%author</a>',
-      'Theme <a target="_blank" href="https://github.com/Moeyua/astro-theme-typography">Typography</a> by <a target="_blank" href="https://moeyua.com">Moeyua</a>',
-      'Proudly published with <a target="_blank" href="https://astro.build/">Astro</a>',
     ],
   },
   appearance: {
