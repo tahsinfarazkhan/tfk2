@@ -5,9 +5,9 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: 'tahsin faraz kkhan',
-    subtitle: 'cultures coexist, boundaries blur',
-    author: 'tahsin faraz khan',
+    title: 'tahsin faraz khan',
+    subtitle: 'stories',
+    author: 'Moeyua',
     description: 'Rediscory the beauty of typography',
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
@@ -50,11 +50,13 @@ export const defaultConfig: ThemeConfig = {
     categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
       '© %year <a target="_blank" href="%website">%author</a>',
+      'Theme <a target="_blank" href="https://github.com/Moeyua/astro-theme-typography">Typography</a> by <a target="_blank" href="https://moeyua.com">Moeyua</a>',
+      'Proudly published with <a target="_blank" href="https://astro.build/">Astro</a>',
     ],
   },
   appearance: {
     theme: 'light',
-    locale: 'en-us',
+    locale: 'zh-cn',
     colorsLight: {
       primary: '#2e405b',
       background: '#ffffff',
