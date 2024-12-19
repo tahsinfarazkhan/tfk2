@@ -6,7 +6,7 @@ import type { ThemeConfig } from '~/types'
 export const defaultConfig: ThemeConfig = {
   site: {
     title: 'tahsin faraz khan',
-    subtitle: 'stories',
+    subtitle: 'cultures coexist, boundaries blur',
     author: 'tahsin faraz khan',
     description: 'Rediscory the beauty of typography',
     website: 'https://astro-theme-typography.vercel.app/',
