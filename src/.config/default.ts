@@ -64,7 +64,7 @@ export const defaultConfig: ThemeConfig = {
       background: '#262626',
     },
     fonts: {
-      header: 'Playwrite CO Guides, serif',
+      header: 'Yanone Kaffeesatz, serif',
       ui: 'Yanone Kaffeesatz, serif',
     },
   },
