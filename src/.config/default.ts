@@ -9,12 +9,12 @@ export const defaultConfig: ThemeConfig = {
     subtitle: 'cultures coexist, boundaries blur',
     author: 'tahsin faraz khan',
     description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    website: 'https://tahsinfarazkhan.com/',
     pageSize: 5,
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://github.com/tahsinfarazkhan',
       },
       {
         name: 'rss',
@@ -22,7 +22,7 @@ export const defaultConfig: ThemeConfig = {
       },
       {
         name: 'twitter',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://x.com/twofirstkinds',
       },
       {
         name: 'mastodon',
