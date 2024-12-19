@@ -56,12 +56,12 @@ export const defaultConfig: ThemeConfig = {
     theme: 'light',
     locale: 'en-us',
     colorsLight: {
-      primary: '#7a7a7a',
+      primary: '#262626',
       background: '#fafafa',
     },
     colorsDark: {
       primary: '#fafafa',
-      background: '#7a7a7a',
+      background: '#262626',
     },
     fonts: {
       header:
