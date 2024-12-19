@@ -56,7 +56,7 @@ export const defaultConfig: ThemeConfig = {
     theme: 'light',
     locale: 'en-us',
     colorsLight: {
-      primary: '#999999',
+      primary: '#212121',
       background: '#f5f5f5',
     },
     colorsDark: {
