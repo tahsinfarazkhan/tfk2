@@ -5,7 +5,7 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '',
+    title: 'tahsin faraz khan',
     subtitle: 'cultures coexist, boundaries blur',
     author: 'tahsin faraz khan',
     description: 'Rediscory the beauty of typography',
