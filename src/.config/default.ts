@@ -64,13 +64,12 @@ export const defaultConfig: ThemeConfig = {
       background: '#262626',
     },
     fonts: {
-      header:
-        '"HiraMinProN-W6","Source Han Serif CN","Source Han Serif SC","Source Han Serif TC",serif',
-      ui: '"Source Sans Pro","Roboto","Helvetica","Helvetica Neue","Source Han Sans SC","Source Han Sans TC","PingFang SC","PingFang HK","PingFang TC",sans-serif',
+      header: 'Arial, sans-serif',
+      ui: 'Arial, sans-serif',
     },
   },
   seo: {
-    twitter: '@moeyua13',
+    twitter: '@twofirstkinds',
     meta: [],
     link: [],
   },
