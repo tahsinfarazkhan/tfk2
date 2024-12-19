@@ -8,7 +8,7 @@ export const defaultConfig: ThemeConfig = {
     title: 'tahsin faraz khan',
     subtitle: 'cultures coexist, boundaries blur',
     author: 'tahsin faraz khan',
-    description: 'Rediscory the beauty of typography',
+    description: 'cultures coexist, boundaries blur',
     website: 'https://tahsinfarazkhan.com/',
     pageSize: 5,
     socialLinks: [
