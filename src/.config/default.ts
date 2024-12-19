@@ -64,7 +64,7 @@ export const defaultConfig: ThemeConfig = {
       background: '#262626',
     },
     fonts: {
-      header: 'Arial, sans-serif',
+      header: 'Cormorant Upright, serif',
       ui: 'Arial, sans-serif',
     },
   },
