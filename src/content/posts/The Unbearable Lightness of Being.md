@@ -3,7 +3,7 @@ title: Hollow Horizons
 pubDate: 1984-01-24
 categories: ['Articles']
 description: 'An industrialist titan with Parsi Zoroastrian roots ideates an ingenious automobile affordable for his average countryman, costing ₹1,00,000, or just above $1,000. The industrialist’s vision is inherently Hegelian, for the assembly of his automobile, essentially an elevator of socioeconomic standards for his people, necessitates degenerating nature.'
-slug: the-unbearable-lightness-of-being
+slug: hollow-horizons
 ---
 
 “After you have exhausted what there is in business, politics, conviviality, love, and so on — have found that none of these finally satisfy, or permanently wear — what remains? Nature remains,” reads The Marginalian’s tweet, quoting the American poet Walt Whitman. Whitman, revisiting the rousing of his rejuvenation while writing to a dear friend a decade after his paralytic ordeal reveals nature, as Popova recounts, as his pivotal private nurse — but for how long will Whitman's quote hold? Or for how long nature can retain its ontological category?
