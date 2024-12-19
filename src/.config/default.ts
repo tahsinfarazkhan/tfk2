@@ -57,11 +57,11 @@ export const defaultConfig: ThemeConfig = {
     locale: 'en-us',
     colorsLight: {
       primary: '#212121',
-      background: '#f5f5f5',
+      background: '#fafafa',
     },
     colorsDark: {
       primary: '#212121',
-      background: '#f0f0f0',
+      background: '#fafafa',
     },
     fonts: {
       header:
