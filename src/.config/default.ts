@@ -65,7 +65,7 @@ export const defaultConfig: ThemeConfig = {
     },
     fonts: {
       header: 'Cormorant Upright, serif',
-      ui: 'Cormorant Upright, serif',
+      ui: 'Yanone Kaffeesatz, serif',
     },
   },
   seo: {
