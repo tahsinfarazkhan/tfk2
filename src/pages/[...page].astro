@@ -20,7 +20,7 @@ const { page } = Astro.props
       page.data.map((post) => (
         <LayoutPost post={post}>
           <p class="line-clamp-4">{getPostDescription(post)}</p>
-          <p class="text-5 line-clamp-4">{getPostDescription(post)}</p>
+          <p class="text-6 line-clamp-4">{getPostDescription(post)}</p>
         </LayoutPost>
       ))
     }
