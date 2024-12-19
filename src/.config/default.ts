@@ -7,7 +7,7 @@ export const defaultConfig: ThemeConfig = {
   site: {
     title: 'tahsin faraz khan',
     subtitle: 'stories',
-    author: 'Moeyua',
+    author: 'tahsin faraz khan',
     description: 'Rediscory the beauty of typography',
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
@@ -56,7 +56,7 @@ export const defaultConfig: ThemeConfig = {
   },
   appearance: {
     theme: 'light',
-    locale: 'zh-cn',
+    locale: 'en-us',
     colorsLight: {
       primary: '#2e405b',
       background: '#ffffff',
