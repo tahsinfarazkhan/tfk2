@@ -17,6 +17,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+      
+      - name: Clean Node.js environment
+        run: |
+          rm -rf node_modules package-lock.json
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps
