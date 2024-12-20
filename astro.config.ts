@@ -10,6 +10,13 @@ import { themeConfig } from './src/.config'
 
 // https://astro.build/config
 export default defineConfig({
+  vite: {
+    plugins: [
+      legacy({
+        targets: ['defaults', 'not IE 11'],
+      }),
+    ],
+  },
   output: 'static',
   site: themeConfig.site.website,
   prefetch: true,
