@@ -12,7 +12,7 @@ export default defineConfig({
   output: 'static',
   site: 'https://tahsinfarazkhan.com',
   prefetch: true,
-  base: '/tfk',
+  base: '/,
   markdown: {
     remarkPlugins: [
       remarkMath,
