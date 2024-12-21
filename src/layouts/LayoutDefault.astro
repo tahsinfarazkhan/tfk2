@@ -14,6 +14,15 @@ const dark = themeConfig.appearance.theme === 'dark'
 
 <html lang={lang} class:list={['animation-prepared', { dark }]}>
   <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHVKG5BBW4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-PHVKG5BBW4');
+  </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200..700&display=swap" rel="stylesheet">
@@ -21,7 +30,6 @@ const dark = themeConfig.appearance.theme === 'dark'
     <LaTeX />
     <Analytics />
   </head>
-
   <body
     class="h-100vh max-w-1200px min-w-390px mx-a"
     p="5 lg:(y-0 x-5)"
