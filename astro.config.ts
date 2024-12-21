@@ -10,9 +10,9 @@ import { themeConfig } from './src/.config'
 
 export default defineConfig({
   output: 'static',
-  site: themeConfig.site.website,
+  site: https://tahsinfarazkhan.github.io,
   prefetch: true,
-  base: '/',
+  base: '/tfk',
   markdown: {
     remarkPlugins: [
       remarkMath,
