@@ -10,7 +10,7 @@ import { themeConfig } from './src/.config'
 
 export default defineConfig({
   output: 'static',
-  site: 'https://tahsinfarazkhan.github.io',
+  site: 'https://tahsinfarazkhan.com',
   prefetch: true,
   base: '/tfk',
   markdown: {
