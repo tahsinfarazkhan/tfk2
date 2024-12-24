@@ -8,17 +8,6 @@ interface Props {
 
 const { post } = Astro.props
 ---
-<!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHVKG5BBW4"></script>
-  <script is:inline>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'G-PHVKG5BBW4');
-  </script>
-  <!-- End Google Analytics -->
 <article class="prose text-5">
   <PostMeta post={post} />
   <slot />
