@@ -39,10 +39,6 @@ export const defaultConfig: ThemeConfig = {
         href: '/archive',
       },
       {
-        name: 'Categories',
-        href: '/categories',
-      },
-      {
         name: 'About',
         href: '/about',
       },
